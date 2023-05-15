@@ -9,11 +9,12 @@ This repository contains resources that will help you plan and build your full s
 
 - **App Planning**: Resources that will help you plan and organize your capstone project.
 - **App Coding**: Resources that will help you build and test your full stack application.
+- **Demo Day**: Resources that will help you prepare for public speaking and presentations.
 
 
 ## How to Use this Repository
 
-To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project.
+To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project. This Readme serves as an index to the rest of the repo.
 
 If you have any questions or need further assistance, don't hesitate to reach out to your instructor or classmates. We're here to support you throughout the capstone project process!
 
