@@ -14,7 +14,25 @@ This repository contains resources that will help you plan and build your full s
 
 ## How to Use this Repository
 
-To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project. This Readme serves as an index to the rest of the repo.
+To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project. 
+
+This Readme serves as an index to the rest of the repo. Each sub topic in the repo has a resource type (class recording, cnavas lesson+notes, etc.) and a difficulty. 
+
+
+| Resource Type       |Symbol  |
+| ------------------- | -------------- |
+| Official Docs       | 📚             |
+| Canvas lesson+notes | 📝             |
+| Canvas lab      	  | 🧪             |
+| Class recording     | 📹             |
+| External resource   | ➕             |
+
+| Difficulty      |Color  |
+| ----------- | --------------|
+| Easy        | 🟢             |
+| Medium      | 🟠             |
+| Advanced    | 🔴             |
+
 
 If you have any questions or need further assistance, don't hesitate to reach out to your instructor or classmates. We're here to support you throughout the capstone project process!
 
