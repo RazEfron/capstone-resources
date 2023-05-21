@@ -52,7 +52,7 @@ Here are some of the resources that you can find in this section:
 Here are some of the resources that you can find in this section:
 
 ### Basic JS
-## Arrays
+# Arrays
   -  [📝 Additional Array Methods Practice](https://github.com/Angiepmunoz/method-like-functions)
 
 ### Git
