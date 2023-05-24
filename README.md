@@ -14,9 +14,9 @@ This repository contains resources that will help you plan and build your full s
 
 ## How to Use this Repository
 
-To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project. 
+To get started, simply clone this repository to your local machine using Git. You can then explore the contents of the repository and use the resources to help you plan and build your capstone project.
 
-This Readme serves as an index to the rest of the repo. Each sub topic in the repo has a resource type (class recording, cnavas lesson+notes, etc.) and a difficulty. 
+This Readme serves as an index to the rest of the repo. Each sub topic in the repo has a resource type (class recording, canvas lesson+notes, etc.) and a difficulty.
 
 
 | Resource Type       |Symbol  |
@@ -77,7 +77,7 @@ Here are some of the resources that you can find in this section:
   - [Articulation JavaScript Concepts And Terms](https://drive.google.com/file/d/16SwYDnrCakEFK25N_gAelEBRxQ-ceeMu/view?usp=share_link)
   - #### Arrays
     -  [📝 Additional Array Methods Practice](https://github.com/Angiepmunoz/method-like-functions) - Repo with additional prommpts to practice array methods
-  - #### Data Structures & Algorithems
+  - #### Data Structures & Algorithms
     - 📝 Bubble Sort Visualized
       - [Bubble Sort Visualized In Terminal](https://drive.google.com/file/d/1PkwuxZNyO9_tKpWpvgvYoVGDTBVwTseW/view?usp=share_link)
       - [Bubble Sort Visualized in Miro.com](https://drive.google.com/file/d/18InUsFPHoRSzEoFKckhqkscKDwq0T9fs/view?usp=sharing)
@@ -136,7 +136,7 @@ Here are some of the resources that you can find in this section:
     - [Part 3](https://drive.google.com/file/d/15H_F1xAzJWsLtu9G1xcTClR6m5cODmrf/view?usp=share_link)
 - [📚 React Composition](https://reactjs.org/docs/composition-vs-inheritance.html) - A guide to using React Composition to compose components and share functionality.
 - #### React User Auth
-  - 📝 Basic ExpressJS User Auth Videos
+  - 📝 Basic Express.js User Auth Videos
     - [Part 1: Signup](https://drive.google.com/file/d/1G-7MlpZKhXCojp9_FbvdLLius4n_O8QK/view?usp=sharing)
     - [Part 2: Login](https://drive.google.com/file/d/1CaVxgIUUuSyXLuxikPOcBgMldskdRi0t/view?usp=sharing)
     - [Part 3: Add Bookmarks To User](https://drive.google.com/file/d/17a028SNaMgmFSSuZme1h7UBoUGB98sR8/view?usp=sharing)
@@ -147,12 +147,12 @@ Here are some of the resources that you can find in this section:
 
 ### Node.js
 - [📚 Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [📚 fs module](https://nodejs.org/api/fs.html) - A module for interacting with the file system in Node.js.
+- [📚 FS Module](https://nodejs.org/api/fs.html) - A module for interacting with the file system in Node.js.
 
 
 ### TypeScript
-- [📝 Type Script Basics](https://github.com/mckiernantim/Typescript-starter) - This repo will walk you through the fundamentals of working with Typescript
-- [📝 Type Script with React](https://github.com/mckiernantim/Typescript-starter/tree/final) - This project will walk you through User Auth via Google sign in using Firebase, React and React Context.
+- [📝 TypeScript Basics](https://github.com/mckiernantim/Typescript-starter) - This repo will walk you through the fundamentals of working with Typescript
+- [📝 TypeScript with React](https://github.com/mckiernantim/Typescript-starter/tree/final) - This project will walk you through User Auth via Google sign-in using Firebase, React and React Context.
 
 ### User Auth
 - #### Firebase
